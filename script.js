@@ -8,5 +8,6 @@ function getInfo(){
         age: age.value,
         birth_date: birth_date.value
     }
+    alert("work")
     show_data.innerHTML = "Name: " + data.name + "</br>" + "Age: " + data.age + "</br>" + "Birthday-Date" + data.birth_date;
 }
