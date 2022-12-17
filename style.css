@@ -1,0 +1,15 @@
+#header{
+    color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url('./images/360_F_461312494_8FumCHhojk8COadhjgCwBQLZTrLTYqmi.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+input{
+    border: 1px solid skyblue;
+}
